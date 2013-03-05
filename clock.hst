@@ -1,0 +1,16 @@
+.% Basic clock, creating a "y" salmon every 8 ticks
+
+universe  
+  
+  reverse. down
+      bear hatchery .{
+        y.n
+        Powers
+      .}
+      time bird .{ 
+        fear range. switch young. sense rapids powers
+        bear
+      .}
+    rapids rapids bear hatchery powers X
+           
+  marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy a k x a a snowmelt
