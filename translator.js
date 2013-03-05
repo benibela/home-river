@@ -1,6 +1,18 @@
 %SCRIPT
+
+/*Translates a Homespring tree structure to a Homespring program
+ supports line comments .%, and brackets .{ .. .}
+ 
+ todo: fix strange indentation like:
+   foo
+        abc
+          def
+     xyz
+   
+*/
+
 var tokenCount = 0;
-var indentations = [-1,0];
+var indentations = [-1,-1];
 var tokenCounts = [0, 0];
 var bracketProtected = [0, 0];
 
@@ -14,6 +26,13 @@ for (var li=0;li<lines.length;li++) {
 	var tokenizer = /^( *)(([.] |[^ ])*)(.*)$/;
 	var token = tokenizer.exec(l);
 // alert(l+"\n"+tokenCount+" "+token+"\n"+indentations+"\n"+tokenCounts+"\n"+bracketProtected)
+	function removeTokens(){
+		while (tokenCount > tokenCounts[tokenCounts.length-1]) {
+			result += " ";
+			tokenCount--;
+		} 
+	}
+
 	function popAllLast(){
 		for (var i = tokenCounts[indentations.length-1]; i > tokenCounts[indentations.length-2]; i--)
 			result += " ";
@@ -25,9 +44,11 @@ for (var li=0;li<lines.length;li++) {
 
 	if (token[2] == ".}") {
 		while (token[2] != "") {
+			removeTokens();
 			if (token[2] == ".}") 
 				while (!bracketProtected[bracketProtected.length-1]) popAllLast();
 			popAllLast();
+			//result += " "; tokenCount--;
 			token = tokenizer.exec(token[4]);
 		}
 		continue;
@@ -38,14 +59,15 @@ for (var li=0;li<lines.length;li++) {
 		indentations.push(newIndentationLevel);
 		tokenCounts.push(tokenCount);
 		bracketProtected.push(false);
-	} else if (result != "" && newIndentationLevel == indentations[indentations.length-1]) {
-	  result += " ";
-	  tokenCount--;
+	} else if (result != "" && newIndentationLevel == indentations[indentations.length-1])  {
+		removeTokens();
 	} else { 
+		removeTokens();
 		while (newIndentationLevel < indentations[indentations.length-1] && !bracketProtected[bracketProtected.length-1]) {
 			popAllLast();
 		}
- 	  if (result != "" && newIndentationLevel == indentations[indentations.length-1]) result += " ";
+ 	  if (result != "" && newIndentationLevel == indentations[indentations.length-1]) 
+			removeTokens();
  	}
  	var newTokenCount = 0;
 	if (token[2] != "") { result += " "+token[2]; newTokenCount++; }
@@ -66,7 +88,7 @@ for (var li=0;li<lines.length;li++) {
 		}
 	//if (!confirm(token)) return;
 	
-	}
+	}//alert(tokenCount+" "+protectionCount+ " "+ newTokenCount)
 	if (newTokenCount > 0) {
 	  var temp = newTokenCount;
 		for (var i=protectionCount;i<temp;i++) { result += " "; newTokenCount-=1;}
