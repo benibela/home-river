@@ -1,0 +1,155 @@
+.% prints the numbers 0 to 99, actually creating a salmon for each number
+
+universe
+  reverse. down
+    reverse. down
+      append. down
+        reverse. down
+            narrows
+              time a .{
+                      evaporates
+                        hydro. power youth. fountain youth. fountain time net oblivion oblivion spring
+                        insulated
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                        .%     bear hatchery powers _
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 1
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 2
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 3
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 4
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 5
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 6
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 7
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 8
+                          append. down
+                             split bear hatchery .{
+                                cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                hydro. power a snowmelt
+                             .}
+                             bear hatchery powers 9
+      
+                 .}
+            bird
+              fear range. switch young. sense rapids .{
+                 reverse. down
+                   split 
+                     bird
+                   swap
+                     append. down 
+                       narrows 
+                       bird 
+                 powers
+              .}
+              bear
+        reverse. down
+          time bear hatchery .{
+            _.n
+            powers 
+          .}
+          split 
+            narrows bear
+            bird
+        
+      time 
+        bird 
+          .#FIZZBUZZDELAY:=a b c a b c x a b c a b c d a b c a b c a b c d e a b c d e f g a b c a b c x a b c a b c d a b c a b c a b c d e a b c a b c a b c x a b c a b c d a b c a b c a b c d e a b c d e f g a b c a b c x a b c a b c d a b c a b c a b c d e a b c a b c a b c
+          .#NUMBERDELAY:=a b c d .$FIZZBUZZDELAY
+          fear range. switch young. sense rapids powers .$FIZZBUZZDELAY .{
+            reverse. down
+              FizzBuzz.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers .$NUMBERDELAY
+          fear range. switch young. sense rapids powers .$NUMBERDELAY
+          fear range. switch young. sense rapids powers .$FIZZBUZZDELAY .{
+            reverse. down
+              Fizz3.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers .$NUMBERDELAY
+          fear range. switch young. sense rapids powers .$FIZZBUZZDELAY .{
+            reverse. down
+              Buzz5.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers .$FIZZBUZZDELAY .{
+            reverse. down
+              Fizz6.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers .$NUMBERDELAY
+          fear range. switch young. sense rapids powers .$NUMBERDELAY
+          fear range. switch young. sense rapids powers .$FIZZBUZZDELAY .{
+            reverse. down
+              Fizz9.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers .$FIZZBUZZDELAY .{
+            reverse. down
+              Buzz10.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers .$NUMBERDELAY
+          fear range. switch young. sense rapids powers .$FIZZBUZZDELAY .{
+            reverse. down
+              Fizz12.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers .$NUMBERDELAY
+          fear range. switch young. sense rapids powers .$NUMBERDELAY
+
+    marshy marshy evaporates .{
+      hydro. power
+        spring insulated evaporates range. switch a b c d e f g h i j k l m powers .{
+                evaporates
+                  hydro. power spring insulated evaporates sense powers snowmelt bird
+                  a snowmelt
+        .}
+      a snowmelt  
+    .}
+    
+    
+    

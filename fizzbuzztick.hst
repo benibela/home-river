@@ -1,0 +1,143 @@
+.% Fizz buzz stream
+.% time bird ... takes an (infinite) stream of upstream salmons as input, and replaces every 3*n-th by Fizz, every 5*n-th by Buzz, and every 15*n-th by FizzBuzz (+debug numbers)
+.% Hardcodes FizzBuzz for a 45-cycle
+.% (might be improvable 
+.% but the fear range.. construct used to handle individual salmons has 8 tokens, so the minimal cylce length with it is 19. And it has to be an odd cycle.)
+
+universe
+   marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy snowmelt
+   reverse. down
+      bear hatchery powers tick.n
+      time 
+        bird 
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              FizzBuzz.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz3.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Buzz5.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz6.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz9.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Buzz10.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz12.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              FizzBuzz15.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz18.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Buzz20.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz21.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz24.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Buzz25.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz27.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              FizzBuzz30.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz33.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Buzz35.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz36.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz39.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Buzz40.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c a b c x a b c a b c d .{
+            reverse. down
+              Fizz42.n
+              insulated rapids fear range. switch bear powers
+          .}
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
+          fear range. switch young. sense rapids powers a b c d a b c a b c a b c a b c x y
