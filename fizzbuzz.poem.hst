@@ -1,0 +1,187 @@
+.% prints 1..100, + fizzbuzz (mod 3 => fizz, mod 5 => buzz)
+.%   generate the reversed numbers 0,1,2,...,8,9,01,11,21,31..,02,12,....,99 + filler salmons (in a single tick). 
+.%   process each salmon individually to reverse their name (killing the filler salmons)
+.%   append \n to each name
+.%   send the salmons in a  fizzbuzz 15-cylce, replacing the respective salmons either by fizz or buzz
+.%   remove the first salmon (carrying 0)
+.%   after the last salmon: create a Buzz salmon (for 100), and a snowmelt ending the program
+
+
+Universe  
+  of fish swimming home in spring to their home spring. They swam up and down and down and up and
+  reverse. down 
+    reverse. down 
+      reverse. up .\
+        .% Fizzbuzz cycle (see fizzbuzztick.hst). The empty ticks left by the killed filler salmons give us enough time to do a 15-cylce
+        time  
+          bird 
+
+            fear range. switch young. sense  suddenly they scattered and hid fearful in the deepness of the river. The time-bird had sensed the young fish toying around and stroke out from the sky.n They swam down to the bottom of the river trying to avoid all rapids movements. Swimming forward just above the ground they continued their journey to their spring.n But soon the attack was forgotten and the fish swim up again. Now they swam again at surface of the river, swimming up and down and up and down and up, jumping out of the water, falling back and jumping out again.n Joyfully they admired the  powers of the sun that is shining on the water and their scales, and warming all their little bodies.n But then, so sadly, it happens, just when they swim again .{
+              reverse. down
+                FizzBuzz.n
+                insulated rapids fear range. switch bear powers
+            .}
+            fear range. switch young. sense  they were hunted again, not by the over dangerously time-bird like before, but by a bearlike FizzBuzz creature! .\ They scattered once again and hide in the dark and deep river. So dangerous is the life of the salmons swimming to their home springs.n Mostly it is a long and dull journey, yet then it happens suddenly, unexpected. something attacks their little, traveling group. But now that predating creature seemed to have left, so they swim up again to the surface of their beloved river and jumped and danced through the water.n They danced with flying tails and shining scales. They passed  rapids where the water is fast and full of powers and valleys, where the water is slow and boring. They swam and swam and swam, always forward to their home spring
+            fear range. switch young. sense .\ A birdlike creature came unexpected from the sky, greedy to catch and eat one of their young! But it was a slow and stupid predator, .\ and it did not catch any of them, so lucky, that the salmons were swimming through rapids and moving so very fast!  The birds always underestimated the powers of the rivers, where their pray was swimming around, and around and around.n  The long journey to the home spring, hundreds or thousands of kilometres, taking many, many moons. So many things they saw and sensed on their long journey, foreign, extra ordinary oceans, from the deep Atlantic, from the cold glaciers of the artic  rivers.n Beautiful landscapes, many, many other fish and crabs, and even some ships and boats swimming above them on the water surface .\
+            fear range. switch young. sense .\ They fearfully scattered again to protect the young, but nothing was there. Sometimes just the water and its rapids powers itself seemed to be scary. So they gathered again and swim together. Chatting about what they had seen and learned on their long journey.n What to eat, and what not to eat, what to be and what not to be.n Some of the older salmons even learned to read, and teached the others about the alphabet: a b c d e f g h i j k l m n o p q r s t u v w x y and z, and again! a b c d e f g h i j k l m n o p q r s t u v w x y z .\ .{
+              reverse. down
+                Fizz.n
+                insulated rapids fear range. switch bear powers
+            .}
+            fear range. switch young. sense rapids powers .\ oh no! Distracted about all that a and b and c and d and e and f and g and h and i and j and k and l and m and n and o and p and q and r and s and t and u and v and w and x and y and z, they became unobservant and were attacked by a Fizz creature! .\ and some kind of bears! It catched a few and ate them, before they could hide again! .\ When they gathered again they did not wanted to hear about the  a b c d e f g h i j k l m n o p q r s t u v w x y and z again 
+            fear range. switch young. sense Something fearfully happened again, and the young was scrared by rapids powers .\ But everything was fine, they were just a little bit nervous.n So the old and wise salmon, began to tell a story she had once read on a small stone at the bottom of the ocean. She did not know its meaning, but there had to be a hidden message: .\ Lorem ipsum dolor sit amet, she began to tell, consectetuer adipiscing elit, Aenean commodo ligula eget dolor, Aenean massa, Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus, Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem Nulla consequat massa quis enim, Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu, In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo .{
+              reverse. down
+                Buzz.n
+                insulated rapids fear range. switch bear powers
+            .}
+            fear range. switch young. sense .\ A buzz creature attacked, while they were listening to that amazing story! Full of rapids and powers ! But they still wanted to listen to the story, since they were told it was so fascinating: .\ Nullam dictum felis eu pede mollis pretium, Integer tincidunt, Cras dapibus, Vivamus elementum semper nisi, Aenean vulputate eleifend tellus, Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim, Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus, Phasellus viverra nulla ut metus varius laoreet, Quisque rutrum, Aenean imperdiet, Etiam ultricies nisi vel augue, Curabitur ullamcorper ultricies nisi, Nam eget dui, Etiam rhoncus, Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum, Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem,  .{
+              reverse. down
+                Fizz.n
+                insulated rapids fear range. switch bear powers
+            .}
+            fear range. switch young. sense rapids powers Now  also a Fizz creature struke ! But they did not care Maecenas nec odio et ante tincidunt tempus, Donec vitae sapien ut libero venenatis faucibus, Nullam quis ante, Etiam sit amet orci eget eros faucibus tincidunt, Duis leo, Sed fringilla mauris sit amet nibh, Donec sodales sagittis magna, Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, , Nullam dictum felis eu pede mollis pretium, Integer tincidunt, Cras dapibus, Vivamus elementum semper nisi, Aenean vulputate eleifend tellus, Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim, Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus, Phasellus viverra nulla ut metus varius laoreet, Quisque rutrum, Aenean imperdiet, Etiam ultricies nisi vel augue, Curabitur ullamcorper ultricies nisi, Nam eget dui, Etiam rhoncus, Maecenas
+            fear range. switch young. sense rapids powers Lorem ipsum dolor sit amet, consectetur adipiscing elit, Integer nec odio, Praesent libero, Sed cursus ante dapibus diam, Sed nisi, Nulla quis sem at nibh elementum imperdiet, Duis sagittis ipsum, Praesent mauris, Fusce nec tellus sed augue semper porta, Mauris massa, Vestibulum lacinia arcu eget nulla, Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos, Curabitur sodales ligula in libero, Sed dignissim lacinia nunc, Curabitur tortor, Pellentesque nibh, Aenean quam, In scelerisque sem at dolor, Maecenas mattis, Sed convallis tristique sem, Proin ut ligula vel nunc egestas porttitor, Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa, Fusce ac turpis quis ligula lacinia aliquet, Mauris ipsum, Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh, Quisque volutpat condimentum velit, Class aptent taciti sociosqu a,
+            fear range. switch young. sense rapids powers  Lorem ipsum dolor sit amet, consectetur adipiscing elit, Integer nec odio, Praesent libero, Sed cursus ante dapibus diam, Sed nisi, Nulla quis sem at nibh elementum imperdiet, Duis sagittis ipsum, Praesent mauris, Fusce nec tellus sed augue semper porta, Mauris massa, Vestibulum lacinia arcu eget nulla, Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos, Curabitur sodales ligula in libero, Sed dignissim lacinia nunc, Curabitur tortor, Pellentesque nibh, Aenean quam, In scelerisque sem at dolor, Maecenas mattis, Sed convallis tristique sem, Proin ut ligula vel nunc egestas porttitor, Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa, Fusce ac turpis quis ligula lacinia aliquet, Mauris ipsum, Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh, Quisque volutpat condimentum velit, Clas, .{
+              reverse. down
+                Fizz.n
+                insulated rapids fear range. switch bear powers
+            .}
+            fear range. switch young. sense rapids powers  Lorem ipsum dolor sit amet, consectetur adipiscing elit, Integer nec odio, Praesent libero, Sed cursus ante dapibus diam, Sed nisi, Nulla quis sem at nibh elementum imperdiet, Duis sagittis ipsum, Praesent mauris, Fusce nec tellus sed augue semper porta, Mauris massa, Vestibulum lacinia arcu eget nulla, Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos, Curabitur sodales ligula in libero, Sed dignissim lacinia nunc, Curabitur tortor, Pellentesque nibh, Aenean quam, In scelerisque sem at dolor, Maecenas mattis, Sed convallis tristique sem, Proin ut ligula vel nunc egestas porttitor, Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa, Fusce ac turpis quis ligula lacinia aliquet, Mauris ipsum, Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh, Quisque volutpat condimentum velit, Clas, .{
+              reverse. down
+                Buzz.n
+                insulated rapids fear range. switch bear powers
+            .}
+            fear range. switch young. sense rapids powers Lorem ipsum dolor sit amet, consectetur adipiscing elit, Integer nec odio, Praesent libero, Sed cursus ante dapibus diam, Sed nisi, Nulla quis sem at nibh elementum imperdiet, Duis sagittis ipsum, Praesent mauris, Fusce nec tellus sed augue semper porta, Mauris massa, Vestibulum lacinia arcu eget nulla, Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos, Curabitur sodales ligula in libero, Sed dignissim lacinia nunc, Curabitur tortor, Pellentesque nibh, Aenean quam, In scelerisque sem at dolor, Maecenas mattis, Sed convallis tristique sem, Proin ut ligula vel nunc egestas porttitor, Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa, Fusce ac turpis quis ligula lacinia aliquet, Mauris ipsum, Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh, Quisque volutpat condimentum velit, Class aptent taciti sociosqu a,
+            fear range. switch young. sense rapids powers  Lorem ipsum dolor sit amet, consectetur adipiscing elit, Integer nec odio, Praesent libero, Sed cursus ante dapibus diam, Sed nisi, Nulla quis sem at nibh elementum imperdiet, Duis sagittis ipsum, Praesent mauris, Fusce nec tellus sed augue semper porta, Mauris massa, Vestibulum lacinia arcu eget nulla, Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos, Curabitur sodales ligula in libero, Sed dignissim lacinia nunc, Curabitur tortor, Pellentesque nibh, Aenean quam, In scelerisque sem at dolor, Maecenas mattis, Sed convallis tristique sem, Proin ut ligula vel nunc egestas porttitor, Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa, Fusce ac turpis quis ligula lacinia aliquet, Mauris ipsum, Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh, Quisque volutpat condimentum velit, Clas, .{
+              reverse. down
+                Fizz.n
+                insulated rapids fear range. switch bear powers
+            .}
+            fear range. switch young. sense rapids powers  Lorem ipsum dolor sit amet, consectetur adipiscing elit, Integer nec odio, Praesent libero, Sed cursus ante dapibus diam, Sed nisi, Nulla quis sem at nibh elementum imperdiet, Duis sagittis ipsum, Praesent mauris, Fusce nec tellus sed augue semper porta, Mauris massa, Vestibulum lacinia arcu eget nulla, Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos, Curabitur sodales ligula in libero, Sed dignissim lacinia nunc, Curabitur tortor, Pellentesque nibh, Aenean quam, In scelerisque sem at dolor, Maecenas mattis, Sed convallis tristique sem, Proin ut ligula vel nunc egestas porttitor, Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa, Fusce ac turpis quis ligula lacinia aliquet, Mauris ipsum, Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh, Quisque volutpat condimentum velit, Class aptent taciti sociosqu a,
+            fear range. switch young. sense rapids powers  Lorem ipsum dolor sit amet, consectetur adipiscing elit, Integer nec odio, Praesent libero, Sed cursus ante dapibus diam, Sed nisi, Nulla quis sem at nibh elementum imperdiet, Duis sagittis ipsum, Praesent mauris, Fusce nec tellus sed augue semper porta, Mauris massa, Vestibulum lacinia arcu eget nulla, Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos, Curabitur sodales ligula in libero, Sed dignissim lacinia nunc, Curabitur tortor, Pellentesque nibh, Aenean quam, In scelerisque sem at dolor, Maecenas mattis, Sed convallis tristique sem, Proin ut ligula vel nunc egestas porttitor, Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa, Fusce ac turpis quis ligula lacinia aliquet, Mauris ipsum, Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh, Quisque volutpat condimentum velit, Class aptent taciti sociosqu a, .\
+
+        append. down
+          reverse. down
+              narrows  .% this generates the reverted numbers, using split to generate all digits 0..9+fillers, and append. down to append the 10-multiple
+                time a .{
+                        evaporates
+                          hydro. power youth. fountain youth. fountain time net oblivion oblivion spring .\
+                          insulated
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                          .%     bear hatchery powers _
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 1
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 2
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 3
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 4
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 5
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 6
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 7
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 8
+                            append. down
+                               split bear hatchery .{
+                                  cdefghijklmopqrst9cdefghijklmopqrst8cdefghijklmopqrst7cdefghijklmopqrst6cdefghijklmopqrst5cdefghijklmopqrst4cdefghijklmopqrst3cdefghijklmopqrst2cdefghijklmopqrst1cdefghijklmopqrst0
+                                  hydro. power a snowmelt
+                               .}
+                               bear hatchery powers 9 .\
+        
+                   .}
+                   
+              .% This reverse their name, using the fear-construction to process them individually, split to break the name and append down to concat it again
+              bird
+                fear range. switch young. sense rapids .{
+                   reverse. down
+                     split 
+                       bird
+                     swap
+                       append. down 
+                         narrows 
+                         bird 
+                   powers
+                .}
+                bear
+                
+          .% This generates salmons with name \n  (by creating salmons with name _\n and splitting it as \n is not a valid token name)
+          reverse. down
+            time bear hatchery .{
+              _.n
+              powers 
+            .}
+            split 
+              narrows bear
+              bird
+          
+  
+      .% trap the first salmon with a fear-construction
+      time 
+        fear range. switch powers
+        bird
+  
+    .% generate the last salmon and snowmelt
+    .%  When the first salmon is sensed, it disables the 4th evaporates which lets a snowmelt pass to destroy the hydro. power powering the 3th  evaporates
+    .%  When the last salmon is gone, the switch disables the 2th evaporates which lets a snowmelt pass to destroy the hydro. power for the 1th evaporates
+    .%  The 1th evaporates was blocking water to a hydro plant for a hatchery, which will then activate and send a homeless-salmon down, which will spawn the final Buzz-salmon
+    .%   Which is made from the concatenation of Bu and zz.\n to avoid catching all Buzz\n salmons in this branch
+    marshy marshy marshy marshy marshy marshy marshy marshy marshy hatchery .{
+      hydro. power marshy marshy marshy marshy .{
+          insulated evaporates time .{
+            hydro. power
+              spring insulated evaporates range. switch .\ now we are getting to the end of our story, where all our powers .{
+                      evaporates
+                        hydro. power spring insulated evaporates sense powers snowmelt bird
+                        a snowmelt
+              .}
+            a snowmelt  
+          .}
+      .}
+      insulated evaporates append. down .{
+        shallows shallows Bu .{
+          current homeless powers
+        .}
+        bear hatchery powers zz.n
+        this is the end! And they all swam happily ever after
+      .}
+    .}
