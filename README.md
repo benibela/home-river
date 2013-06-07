@@ -53,4 +53,4 @@ There are also new fish.svg which have more contrast and are easier to recognize
 
 To run/compile a HomeSpringTree program, you need the compile script from util/ as well as TeXstudio.  
 There create a new user macro in TeXstudio, copy util/translator.js in it and create a user command called homespring pointing to hsrun of the interpreter.  
-Calling the macro will then compile the current file from HomeSpringTree to Homespring, save it as /tmp/test.hs and run it.
+Calling the macro will then compile the current file from HomeSpringTree to Homespring, save it (in the current directory as .hs, if the file is a .hst, otherwise as /tmp/test.hs) and run it.
