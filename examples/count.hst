@@ -1,3 +1,6 @@
+.% program that prints all numbers from 1 to 100
+.% It does however not actually generate these numbers, as it prints numbers like 1\n1 and only concatenating them together in the output looks like the desired result
+
 Universe
  
         upstream. killing. device 

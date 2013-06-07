@@ -2,7 +2,7 @@
 .% time bird ... takes an (infinite) stream of upstream salmons as input, and replaces every 3*n-th by Fizz, every 5*n-th by Buzz, and every 15*n-th by FizzBuzz (+debug numbers)
 .% Hardcodes FizzBuzz for a 45-cycle
 .% (might be improvable 
-.% but the fear range.. construct used to handle individual salmons has 8 tokens, so the minimal cylce length with it is 19. And it has to be an odd cycle.)
+.% but the fear range.. construct used to handle individual salmons has 8 tokens, so the minimal cycle length with it is 19. And it has to be an odd cycle, ruling out a 30-cycle.)
 
 universe
    marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy marshy snowmelt
