@@ -2,7 +2,7 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source $DIR/../../../manageUtils.sh
 
-githubProject home-river
+mirroredProject home-river
 
 BASE=$HGROOT/programs/data/homespring
 
