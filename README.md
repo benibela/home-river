@@ -44,10 +44,7 @@ The .hst files usually also contain a comment at the top, describing what the pr
 Usage
 ------------
 
-To run Homespring programs you need to download the Ocaml interpreter 0.1 from http://esoteric.voxelperfect.net/files/homespring/impl/    
-If the hsgui part does not compile with your Ocaml version, you can use the patch file in the patch/ directory to add a missing ignore(0).
-There are also new fish.svg which have more contrast and are easier to recognize as fish.
-
+The best way to run Homespring programs is to use the [interpreter by jneem](https://github.com/jneem/homespring).
 
 
 
